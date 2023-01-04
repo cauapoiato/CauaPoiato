@@ -1,7 +1,7 @@
 ## Oi eu sou o Cauã Poiato, técnico em informatica para internet!
 <div align="center">
-  <a href="https://github.com/CauaPoiato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaPoiato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/cauapoiato">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauapoiato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Caua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
