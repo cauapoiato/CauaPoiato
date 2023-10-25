@@ -3,7 +3,7 @@
   <h3> Github Status: <br></h3> 
 <div>
   <a href="[https://github.com/Cauapoiatol](https://github.com/Cauapoiato)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Cauapoiato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Cauapoiato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauapoiato&layout=compact&langs_count=16&theme=tokyonight"/>   
 </div>
 
