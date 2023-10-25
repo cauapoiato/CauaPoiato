@@ -1,4 +1,6 @@
 ## Oi eu sou o Cauã Poiato, técnico em informatica para internet!
+<a href="https://github.com/Guga-tab">![Guga-tab stats](https://github-readme-stats.vercel.app/api?username=Guga-tab&show_icons=true&theme=tokyonight)</a>
+##
 <div style="display: inline_block"><br>
   <img align="center" alt="Caua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
