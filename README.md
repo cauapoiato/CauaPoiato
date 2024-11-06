@@ -1,4 +1,5 @@
-## Oi eu sou o Cauã Poiato, técnico em informatica para internet!
+# Olá, me chamo Cauã Poiato!
+## Sejá bem vindo ao meu perfil do GitHub!
 
   <h3> Github Status: <br></h3> 
 <div>
