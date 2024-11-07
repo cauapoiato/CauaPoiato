@@ -2,7 +2,7 @@
 ## Sejá bem vindo ao meu perfil do GitHub!
   
 ### 🖥️ Tecnologias e Ferramentas: 
-<img align="right" width="270px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/111518247/384092628-6661771d-b656-4077-8397-01ba3611f493.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241107T182801Z&X-Amz-Expires=300&X-Amz-Signature=e257c861746329d4ee969c4a3f98b1860965a49fb06ffbce3021c60756db20f8&X-Amz-SignedHeaders=host">
+<img width="250px" align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/111518247/384092628-6661771d-b656-4077-8397-01ba3611f493.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241107T182801Z&X-Amz-Expires=300&X-Amz-Signature=e257c861746329d4ee969c4a3f98b1860965a49fb06ffbce3021c60756db20f8&X-Amz-SignedHeaders=host">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title = "PHP"/></code>
