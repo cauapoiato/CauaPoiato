@@ -13,7 +13,7 @@
 </br>
 </br>
 <div display="inline-block">
- <p align="left">💻 Sou formado em Técnico em Informatica para Internet;</p>
+ <p align="left">💻 Sou formado em Técnico em Informatica para Internet pela ETEC;</p>
  <p align="left">🎮  Curto games, desenhar, animes e heróis.</p>
 </div>
 
